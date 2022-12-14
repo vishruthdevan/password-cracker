@@ -1,2 +1,2 @@
 # password-strength-checker
-A simple password checked built with golang
+A simple password cracker built with golang
