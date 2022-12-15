@@ -1,3 +1,3 @@
-module github.com/vishruthdevan/password-cracker.git
+module password-cracker
 
 go 1.19
