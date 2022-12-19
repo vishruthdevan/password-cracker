@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestHash_superman(t *testing.T) {
+func TestHash(t *testing.T) {
 	var cracked, tries = password.CrackPass("password")
 	if cracked {
 		t.Logf("success | number of tries: %v", tries)
